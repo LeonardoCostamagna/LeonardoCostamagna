@@ -7,11 +7,12 @@
 <br />
 
 <!-- ABOUT ME -->
-<h2>👤 About Me</h2>
 
-I am an Argentine Embedded Systems Developer and Biomedical Engineer with a strong background in computing, electronics, and electromechanics. I have extensive hands-on technical experience designing, developing, and integrating critical technology across its entire lifecycle.
+Specializing in safety-critical technologies and complex electromechanical systems.
 
-My background in electromechanics gives me a comprehensive view of how different technologies interact. This allows me to easily understand, architect, and seamlessly integrate complex physical and digital systems. I am deeply curious, constantly learning, and passionate about keeping up with emerging technologies to build reliable, high-performance solutions.
+🚀 What I do: Architect, build, and integrate reliable, full-lifecycle embedded systems.
+
+💡 Focus: Combining deep hands-on hardware/firmware expertise with emerging technologies.
 
 <br />
 
