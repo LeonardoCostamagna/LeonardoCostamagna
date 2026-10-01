@@ -88,7 +88,7 @@ Specializing in safety-critical technologies and complex electromechanical syste
     <td valign="top" padding="10">
       <h3>📌 DS3231 C Driver</h3>
       <p><i>Low-Level Peripheral Driver Development Sample</i></p>
-      <p>A production-ready, platform-independent C library for the DS3231 RTC module. Designed with robust embedded software design patterns, Ceedling-based unit testing, and automated Doxygen documentation.</p>
+      <p>A production-ready, platform-independent C driver for the DS3231 RTC module. Designed with robust embedded software design patterns, Ceedling-based unit testing, and automated Doxygen documentation.</p>
       <p>
         🔗 <a href="https://github.com/LeonardoCostamagna/ds3231-c-driver.git" target="_blank"><b>View Repository</b></a>
       </p>
