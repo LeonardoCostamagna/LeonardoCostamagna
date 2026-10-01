@@ -82,32 +82,20 @@ Specializing in safety-critical technologies and complex electromechanical syste
 <!-- FEATURED PROJECTS -->
 <h2>🚀 Featured Projects</h2>
 
-<!-- PROJECT 1: PERIPHERAL DRIVERS SHOWCASE -->
+
 <table width="100%" border="1">
   <tr>
     <td valign="top" padding="10">
-      <h3>📌 Peripheral Drivers Showcase</h3>
-      <p>A showcase of modular and portable peripheral drivers demonstrating advanced embedded software design. The library features Hardware Abstraction (Hardware Proxy & Opaque Pointers) and unit-tested reliability via Ceedling/Unity, all built following industry best practices and robust design patterns.</p>
+      <h3>📌 DS3231 C Driver</h3>
+      <p><i>Low-Level Peripheral Driver Development Sample</i></p>
+      <p>A production-ready, platform-independent C library for the DS3231 RTC module. Designed with robust embedded software design patterns, Ceedling-based unit testing, and automated Doxygen documentation.</p>
       <p>
-        🔗 <a href="https://github.com/LeonardoCostamagna/portable-peripheral-drivers-showcase.git" target="_blank"><b>View Repository</b></a>
+        🔗 <a href="https://github.com/LeonardoCostamagna/ds3231-c-driver.git" target="_blank"><b>View Repository</b></a>
       </p>
     </td>
   </tr>
 </table>
 
-
-<!-- PROJECT 2: CONTROL & DSP SHOWCASE -->
-<table width="100%" border="1">
-  <tr>
-    <td valign="top" padding="10">
-      <h3>📌 Control & Digital Signal Processing Showcase</h3>
-      <p>A showcase of modular and portable algorithms for embedded systems, demonstrating clean design practices across control systems, digital filters, and state-based architectures.</p>
-      <p>
-        🔗 <a href="https://github.com/LeonardoCostamagna/control-and-dsp-showcase.git" target="_blank"><b>View Repository</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 <br />
 
