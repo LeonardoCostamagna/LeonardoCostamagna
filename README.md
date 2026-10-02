@@ -97,6 +97,20 @@ Specializing in safety-critical technologies and complex electromechanical syste
 </table>
 
 
+<table width="100%" border="1">
+  <tr>
+    <td valign="top" padding="10">
+      <h3>📌 PID Controller C</h3>
+      <p><i>Control System Algorithm Development Sample</i></p>
+      <p>An industrial PID controller implementation featuring dynamic anti-windup clamping, derivative-on-measurement filtering, and intelligent setpoint ramping.</p>
+      <p>
+        🔗 <a href="https://github.com/LeonardoCostamagna/pid-controller-c.git" target="_blank"><b>View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 <br />
 
 <!-- BOOKS & RECOMMENDED READS -->
