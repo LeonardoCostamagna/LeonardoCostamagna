@@ -24,7 +24,10 @@ Specializing in safety-critical technologies and complex electromechanical syste
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Assembler-6E4C13?style=flat&logo=assemblyscript&logoColor=white" alt="Assembler" />
+  <br/>
+  <strong>Build:</strong>
   <img src="https://img.shields.io/badge/CMake-%23064F8C.svg?style=flat&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/Makefiles-4EAA25?style=flat&logo=gnu&logoColor=white" alt="Makefiles" />
   <br/>
   <strong>OS & RTOS:</strong>
   <img src="https://img.shields.io/badge/FreeRTOS-00A3E0?style=flat&logo=freertos&logoColor=white" alt="FreeRTOS" />
@@ -34,7 +37,6 @@ Specializing in safety-critical technologies and complex electromechanical syste
   <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" alt="STM32" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/Kinetis-000000?style=flat&logo=nxp&logoColor=white" alt="Kinetis" />
-  <img src="https://img.shields.io/badge/AVR-2C3E50?style=flat" alt="AVR" />
   <img src="https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=flat&logo=arm&logoColor=white" alt="ARM Cortex-M" />
   <img src="https://img.shields.io/badge/RISC--V-E05A47?style=flat&logo=riscv&logoColor=white" alt="RISC-V" />
   <br/>
