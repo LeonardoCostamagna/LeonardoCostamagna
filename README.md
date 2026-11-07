@@ -113,6 +113,20 @@ Specializing in safety-critical technologies and complex electromechanical syste
 </table>
 
 
+<table width="100%" border="1">
+  <tr>
+    <td valign="top" padding="10">
+      <h3>📌 DEMA Filter C</h3>
+      <p><i>Digital Signal Processing Algorithm Development Sample</i></p>
+      <p>A Double Exponential Moving Average (DEMA) filter optimized for embedded systems, providing low-latency real-time signal processing and effective noise suppression.</p>
+      <p>
+        🔗 <a href="https://github.com/LeonardoCostamagna/dema-filter-c.git" target="_blank"><b>View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 <br />
 
 <!-- BOOKS & RECOMMENDED READS -->
