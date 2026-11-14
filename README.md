@@ -141,6 +141,20 @@ Specializing in safety-critical technologies and complex electromechanical syste
 </table>
 
 
+<table width="100%" border="1">
+  <tr>
+    <td valign="top" padding="10">
+      <h3>📌 Command Line Interface C</h3>
+      <p><i>Command Dispatcher Development Sample</i></p>
+      <p>A lightweight, zero-allocation Command Line Interface (CLI) dispatcher in C featuring declarative command mapping, safe in-place tokenization to argc/argv, and comment filtering for embedded systems.</p>
+      <p>
+        🔗 <a href="https://github.com/LeonardoCostamagna/cli-module-c.git" target="_blank"><b>View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 <br />
 
 <!-- BOOKS & RECOMMENDED READS -->
