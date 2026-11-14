@@ -127,6 +127,20 @@ Specializing in safety-critical technologies and complex electromechanical syste
 </table>
 
 
+<table width="100%" border="1">
+  <tr>
+    <td valign="top" padding="10">
+      <h3>📌 Table-driven Finite State Machine C</h3>
+      <p><i>State Control Logic Development Sample</i></p>
+      <p>A lightweight, deterministic table-driven Finite State Machine (FSM) engine written in C, optimized for embedded systems with event-driven transitions.</p>
+      <p>
+        🔗 <a href="https://github.com/LeonardoCostamagna/fsm-module-c.git" target="_blank"><b>View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 <br />
 
 <!-- BOOKS & RECOMMENDED READS -->
