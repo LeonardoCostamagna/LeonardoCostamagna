@@ -155,6 +155,20 @@ Specializing in safety-critical technologies and complex electromechanical syste
 </table>
 
 
+<table width="100%" border="1">
+  <tr>
+    <td valign="top" padding="10">
+      <h3>📌 Look-Up Table Calibration C</h3>
+      <p><i>Sensor Calibration & Linearization Sample</i></p>
+      <p>A precision Look-Up Table (LUT) calibration and sensor linearization library in C featuring O(log n) binary search, linear interpolation, and boundary clamping/extrapolation.</p>
+      <p>
+        🔗 <a href="https://github.com/LeonardoCostamagna/lut-calib-c.git" target="_blank"><b>View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 <br />
 
 <!-- BOOKS & RECOMMENDED READS -->
