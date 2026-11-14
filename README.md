@@ -169,6 +169,20 @@ Specializing in safety-critical technologies and complex electromechanical syste
 </table>
 
 
+<table width="100%" border="1">
+  <tr>
+    <td valign="top" padding="10">
+      <h3>📌 Static Event Bus C</h3>
+      <p><i>Pub/Sub Communication Dispatcher Sample</i></p>
+      <p>A lightweight, static Publish-Subscribe event bus module in C for embedded systems featuring multi-subscriber broadcasting, event payloads, and deterministic memory usage.</p>
+      <p>
+        🔗 <a href="https://github.com/LeonardoCostamagna/event-bus-c.git" target="_blank"><b>View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 <br />
 
 <!-- BOOKS & RECOMMENDED READS -->
